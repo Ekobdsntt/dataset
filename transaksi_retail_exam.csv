@@ -1,76 +1,59 @@
 tanggal,kodeproduk,namaproduk,jumlah,harga
-10-04-2020,Item-11,Sabun Cuci Piring,3,14000
-10-04-2020,Item-11,Sabun Cuci Piring,3,14000
-10-04-2020,Item-11,Sabun Cuci Piring,2,14000
-10-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-10-04-2020,Item-11,Sabun Cuci Piring,3,14000
-10-04-2020,Item-11,Sabun Cuci Piring,4,14000
-19-04-2020,Item-26,Susu Bubuk 195g,7,45000
-11-04-2020,Item-11,Sabun Cuci Piring,2,14000
-11-04-2020,Item-11,Sabun Cuci Piring,3,14000
-11-04-2020,Item-16,Balsem Putih 20 gram,1,22300
-11-04-2020,Item-11,Sabun Cuci Piring,4,14000
-11-04-2020,Item-16,Balsem Putih 20 gram,1,22300
-19-04-2020,Item-26,Susu Bubuk 195g,14,45000
-11-04-2020,Item-11,Sabun Cuci Piring,3,14000
-10-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500
-11-04-2020,Item-11,Sabun Cuci Piring,2,14000
-11-04-2020,Item-17,Obat Batuk,3,5000
-11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-11-04-2020,Item-11,Sabun Cuci Piring,3,14000
-11-04-2020,Item-16,Balsem Putih 20 gram,4,22300
-11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-11-04-2020,Item-11,Sabun Cuci Piring,2,14000
-11-04-2020,Item-16,Balsem Putih 20 gram,2,22300
-11-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500
-20-04-2020,Item-26,Susu Bubuk 195g,1,45000
-11-04-2020,Item-11,Sabun Cuci Piring,4,14000
-11-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-12-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-13-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500
-13-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500
-13-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500
-12-04-2020,Item-11,Sabun Cuci Piring,3,14000
-13-04-2020,Item-13,Pisau Cukur,1,6500
-13-04-2020,Item-14,Teh Celup Melati,4,7800
-13-04-2020,Item-13,Pisau Cukur,1,6500
-13-04-2020,Item-14,Teh Celup Melati,4,7800
-13-04-2020,Item-14,Teh Celup Melati,5,7800
-13-04-2020,Item-14,Teh Celup Melati,10,7800
-13-04-2020,Item-14,Teh Celup Melati,7,7800
-13-04-2020,Item-14,Teh Celup Melati,5,7800
-13-04-2020,Item-11,Sabun Cuci Piring,2,14000
-14-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-13-04-2020,Item-11,Sabun Cuci Piring,2,14000
-13-04-2020,Item-13,Pisau Cukur,1,6500
-13-04-2020,Item-14,Teh Celup Melati,3,7800
-13-04-2020,Item-11,Sabun Cuci Piring,3,14000
-13-04-2020,Item-13,Pisau Cukur,1,6500
-14-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500
-13-04-2020,Item-11,Sabun Cuci Piring,2,14000
-13-04-2020,Item-14,Teh Celup Melati,1,7800
-13-04-2020,Item-11,Sabun Cuci Piring,3,14000
-13-04-2020,Item-13,Pisau Cukur,2,6500
-14-04-2020,Item-03,Gula Pasir Putih 1 kg,4,12500
-13-04-2020,Item-11,Sabun Cuci Piring,2,14000
-13-04-2020,Item-13,Pisau Cukur,3,6500
-13-04-2020,Item-14,Teh Celup Melati,3,7800
-14-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-14-04-2020,Item-14,Teh Celup Melati,4,7800
-14-04-2020,Item-14,Teh Celup Melati,1,7800
-20-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-20-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500
-14-04-2020,Item-14,Teh Celup Melati,1,7800
-21-04-2020,Item-03,Gula Pasir Putih 1 kg,1,12500
-21-04-2020,Item-03,Gula Pasir Putih 1 kg,2,12500
-14-04-2020,Item-14,Teh Celup Melati,1,7800
-21-04-2020,Item-03,Gula Pasir Putih 1 kg,3,12500
-14-04-2020,Item-14,Teh Celup Melati,1,7800
-14-04-2020,Item-11,Sabun Cuci Piring,4,14000
-14-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500
-14-04-2020,Item-06,Sabun Mandi Cair 100 ml,2,10500
-16-05-2020,Item-21,Shampoo Sachet,3,1000
-16-05-2020,Item-21,Shampoo Sachet,2,1000
+26-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+27-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+27-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+28-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+28-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+29-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+29-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+30-04-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+30-04-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+30-04-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+30-04-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+01-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+01-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+03-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+03-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+05-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+05-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+05-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+06-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+06-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+06-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+07-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+07-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+07-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+07-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+07-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+09-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+10-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+10-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+10-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+10-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+11-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+12-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+12-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+14-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+15-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+15-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+16-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+17-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+17-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+18-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+18-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+24-05-2020,Item-22,Minyak Goreng 1 Lt,3,16000
+25-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+26-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+27-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+27-05-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+29-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+29-05-2020,Item-22,Minyak Goreng 1 Lt,1,16000
+29-05-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+02-06-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+03-06-2020,Item-22,Minyak Goreng 1 Lt,4,16000
+06-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000
+11-06-2020,Item-22,Minyak Goreng 1 Lt,2,16000
 10-04-2020,Item-05,Mi Goreng Instant,2,2600
 10-04-2020,Item-05,Mi Goreng Instant,2,2600
 11-04-2020,Item-05,Mi Goreng Instant,2,2600
